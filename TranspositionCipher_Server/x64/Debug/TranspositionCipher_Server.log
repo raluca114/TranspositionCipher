@@ -1,0 +1,6 @@
+﻿  Decipher.cpp
+C:\Users\Raluca\Desktop\_\sem 2\RC\laborator\Tema 4\Tema 4\TranspositionCipher\TranspositionCipher_Server\Decipher.cpp(31,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+C:\Users\Raluca\Desktop\_\sem 2\RC\laborator\Tema 4\Tema 4\TranspositionCipher\TranspositionCipher_Server\Source.cpp(98,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  TranspositionCipher_Server.vcxproj -> C:\Users\Raluca\Desktop\_\sem 2\RC\laborator\Tema 4\Tema 4\TranspositionCipher\x64\Debug\TranspositionCipher_Server.exe
